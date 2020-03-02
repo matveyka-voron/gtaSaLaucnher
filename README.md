@@ -1,5 +1,5 @@
 # "GTA SA LaUncher +" - Лаунчер 32 бита
-Лаунчер 32bit для сборки игры GTA San Andreas - GTA SA LaUncher +.
+Лаунчер 32bit для сборки игры GTA San Andreas 32bit - GTA SA LaUncher +.
 Лаунчер написан на языке программирования - Python 3.7.4 32bit
 Используемые модули в исходном коде:
 - Tkinter (Работа с GUI)
